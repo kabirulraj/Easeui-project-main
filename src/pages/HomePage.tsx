@@ -28,6 +28,21 @@ const components = [
     description: "Responsive navbar with glass, dark, light, and primary variants.",
     path: "components/navbar",
   },
+  {
+    title: "Carousel",
+    description: "Animated slide carousel with autoplay, dot indicators, and arrow navigation.",
+    path: "components/carousel",
+  },
+  {
+    title: "Tooltip",
+    description: "Lightweight hover tooltip with GSAP animations, four placements, and four variants.",
+    path: "components/tooltip",
+  },
+  {
+    title: "Layout",
+    description: "Composable layout primitives: Stack, Grid, SidebarLayout, and Split.",
+    path: "components/layout",
+  },
 ];
 
 const HomePage = () => {
