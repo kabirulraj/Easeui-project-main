@@ -77,7 +77,7 @@ const HomePage = () => {
             hoverAnimation="scale"
             variant="outline"
             size="lg"
-            onClick={() => window.open("https://github.com", "_blank")}
+            onClick={() => window.open("https://github.com")}
           >
             GitHub
           </Button>
