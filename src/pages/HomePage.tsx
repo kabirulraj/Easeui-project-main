@@ -99,7 +99,7 @@ const HomePage = () => {
               key={comp.title}
               title={comp.title}
               description={comp.description}
-              hoverAnimation="lift"
+              hoverAnimation="float3D"
               footer={
                 <Button
                   variant="ghost"
